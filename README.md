@@ -31,6 +31,7 @@ The dashboard enables stakeholders to make **data-driven business decisions** by
 - What are the bottom 5 worst-selling pizzas?
 - Which days and months have peak order volumes?
 - How does pizza size impact total revenue?
+- Dashboard Interaction <a href="https://github.com/Mohitkumar-datanalyst/PowerBI-Pizza-Sales-Dashboard/blob/main/Pizza%20Sale%20-%20Project.pdf">Pizza Sales Dashboard</a>
 
 ---
 
