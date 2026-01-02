@@ -99,3 +99,33 @@ The dashboard enables stakeholders to make **data-driven business decisions** by
 
 🎥 **Dashboard Walkthrough Video**  
 `Dashboard/Dashboard_Demo_Video.mp4`
+
+---
+
+## 📈 Key Insights
+- Certain pizza categories contribute the majority of total revenue
+- Medium and Large size pizzas generate higher sales value
+- Peak order volumes occur during specific days and time periods
+- A small group of pizzas drive a large portion of total revenue (Pareto principle)
+- Low-performing pizzas present opportunities for menu optimization
+
+---
+
+## 💼 Business Value
+- Helps identify high-margin products
+- Supports inventory planning and demand forecasting
+- Improves promotional and pricing strategies
+- Enables management to focus on top revenue drivers
+
+---
+
+## 🛠 Tools & Skills Used
+- Power BI
+- Power Query (ETL)
+- DAX
+- Data Modeling
+- Data Visualization
+- Business Intelligence
+- Sales Analytics
+
+---
