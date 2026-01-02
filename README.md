@@ -16,3 +16,37 @@ The dashboard enables stakeholders to make **data-driven business decisions** by
 - Support strategic decisions for inventory and promotions
 
 ---
+
+## ❓ Business Questions Answered
+- What is the total revenue and total number of orders?
+- Which pizza categories generate the highest sales?
+- What are the top 5 best-selling pizzas?
+- Which days and months have peak order volumes?
+- How does pizza size impact total revenue?
+
+---
+
+## 📊 Key KPIs Used
+- Total Revenue
+- Total Orders
+- Average Order Value (AOV)
+- Total Quantity Sold
+- Revenue by Pizza Category
+- Revenue by Pizza Size
+- Top & Bottom Performing Products
+
+---
+
+## 🗂 Dataset Information
+- Source File: `pizza_sales_excel_file.xlsx`
+- Data includes:
+  - Order details
+  - Pizza category & size
+  - Quantity sold
+  - Price and revenue
+  - Order date and time
+
+📁 Dataset Location:  
+`Dataset/pizza_sales_excel_file.xlsx`
+
+---
