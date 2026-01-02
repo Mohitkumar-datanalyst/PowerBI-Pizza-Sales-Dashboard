@@ -28,6 +28,7 @@ The dashboard enables stakeholders to make **data-driven business decisions** by
 - What is the total revenue and total number of orders?
 - Which pizza categories generate the highest sales?
 - What are the top 5 best-selling pizzas?
+- What are the bottom 5 worst-selling pizzas?
 - Which days and months have peak order volumes?
 - How does pizza size impact total revenue?
 
