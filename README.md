@@ -103,7 +103,7 @@ The dashboard enables stakeholders to make **data-driven business decisions** by
 
 ## 📸 Dashboard Preview
 
-![Pizza Sales Dashboard](Dashboard/Dashboard_Screenshot.png)
+<a href="https://github.com/Mohitkumar-datanalyst/PowerBI-Pizza-Sales-Dashboard/blob/main/Pizza%20Sale%20-%20Project.pdf">Pizza Sales Dashboard</a>
 
 🎥 **Dashboard Walkthrough Video**  
 `Dashboard/Dashboard_Demo_Video.mp4`
