@@ -129,3 +129,12 @@ The dashboard enables stakeholders to make **data-driven business decisions** by
 - Sales Analytics
 
 ---
+
+## ✅ Final Conclusion
+This Power BI Pizza Sales Dashboard demonstrates how raw sales data can be transformed into **meaningful business insights** using Power BI, helping organizations improve revenue performance and strategic decision-making.
+
+---
+
+### 🔗 Author
+**Mohit Kumar**  
+Data Analyst | Power BI | Excel | SQL  
