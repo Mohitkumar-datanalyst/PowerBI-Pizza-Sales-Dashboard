@@ -50,3 +50,52 @@ The dashboard enables stakeholders to make **data-driven business decisions** by
 `Dataset/pizza_sales_excel_file.xlsx`
 
 ---
+
+## ⚙️ Project Workflow (Step-by-Step)
+
+### 1️⃣ Data Understanding
+- Reviewed raw sales data structure
+- Identified key business dimensions:
+  - Date, category, size, product, revenue
+
+### 2️⃣ Data Cleaning & Transformation (Power Query)
+- Removed null and duplicate records
+- Standardized column names
+- Extracted:
+  - Order month
+  - Day of week
+- Converted data types for accurate analysis
+
+### 3️⃣ Data Modeling
+- Created a clean single-table model
+- Ensured optimized relationships for performance
+- Prepared data for DAX calculations
+
+### 4️⃣ DAX Measures Created
+- Total Revenue
+- Total Orders
+- Average Order Value
+- Total Quantity Sold
+- Revenue % Contribution by Category
+- Top N Product Ranking
+
+### 5️⃣ Dashboard Development
+- Built interactive visuals using:
+  - Cards
+  - Bar charts
+  - Line charts
+  - Donut charts
+  - Tables
+- Added slicers for:
+  - Date
+  - Pizza Category
+  - Pizza Size
+
+---
+
+## 📸 Dashboard Preview
+
+![Pizza Sales Dashboard](Dashboard/Dashboard_Screenshot.png)
+
+🎥 **Dashboard Walkthrough Video**  
+`Dashboard/Dashboard_Demo_Video.mp4`
