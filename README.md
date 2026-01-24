@@ -111,7 +111,7 @@ The dashboard enables stakeholders to make **data-driven business decisions** by
 
 🎥 **Dashboard Walkthrough Video**
 
-<a href="https://github.com/Mohitkumar-datanalyst/PowerBI-Pizza-Sales-Dashboard/blob/main/Pizza%20Sale%20-%20Project%202025-12-31%2022-53-11.mp4">`Dashboard/Dashboard_Demo_Video`</a>
+<a href="https://github.com/Mohitkumar-datanalyst/PowerBI-Pizza-Sales-Dashboard/blob/main/Pizza%20Sale%20-%20Project%202025-12-31%2022-53-11.mp4">`Dashboard_Demo_Video`</a>
 
 ---
 
